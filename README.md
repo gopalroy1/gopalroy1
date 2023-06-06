@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Advance Js, React Js,**
 
-- 💬 Ask me about **SpringBoot, DSA, OOPS, HTML, CSS,Java, JavaScript**
+- 💬 Ask me about **SpringBoot, DSA, OOPS, HTML, CSS,Java, JavaScript, MySql**
 
 - 📫 How to reach me **gopalroy5397@gmail.com**
 
