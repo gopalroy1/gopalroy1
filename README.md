@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gopalroy1&label=Profile%20views&color=0e75b6&style=flat" alt="gopalroy1" /> </p>
 
-- 🌱 I’m currently learning **Advance Js, React Js,**
+- 🌱 I’m currently learning **"Node Js , React Js**
 
-- 💬 Ask me about **SpringBoot, DSA, OOPS, HTML, CSS,Java, JavaScript, MySql**
+- 💬 Ask me about ** HTML, CSS, JavaScript, React, Redux, Node, Express, Mongo DB ,Java SpringBoot ,MySql, DSA, OOPS**
 
 - 📫 How to reach me **gopalroy5397@gmail.com**
 
